@@ -24,7 +24,7 @@ public class Main {
         }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите 1 число oskdngsodnsdofsodfnsdof");
+        System.out.println("Введите 1 число oskdngsodnsdofsodfnsdof изменение из TestBranch внесеные pull request");
         float num1 = sc.nextFloat();
         String sign = sc.next();
         float num2 = sc.nextFloat();
