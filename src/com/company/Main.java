@@ -24,7 +24,7 @@ public class Main {
         }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введите 1 число");
+        System.out.println("Введите 1 число oskdngsodnsdofsodfnsdof");
         float num1 = sc.nextFloat();
         String sign = sc.next();
         float num2 = sc.nextFloat();
